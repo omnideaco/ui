@@ -1,4 +1,4 @@
-> **[Omnidea](https://github.com/omnideaco/omnidea)** / **[Ore](https://github.com/omnideaco/ore)** / **UI** · For AI-assisted development, see [../CLAUDE.md](../CLAUDE.md).
+> **[Omnidea](https://github.com/omnideaco/omnidea)** / **[Ore](https://github.com/omnideaco/ore)** / **UI** · For AI-assisted development, see [Ore CLAUDE.md](https://github.com/omnideaco/ore/blob/main/CLAUDE.md).
 
 # @omnidea/ui
 
