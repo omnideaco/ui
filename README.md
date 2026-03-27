@@ -2,6 +2,8 @@
 
 # @omnidea/ui
 
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE.md) [![GitHub Stars](https://img.shields.io/github/stars/omnideaco/ui)](https://github.com/omnideaco/ui/stargazers) [![Governed by the Covenant](https://img.shields.io/badge/Governed_by-The_Covenant-gold.svg)](https://github.com/omnideaco/covenant) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
 Omnidea design system. 41 Solid.js components with two visual modes: **neu** (flat surfaces) and **crystal** (WebGPU glass via `@omnidea/crystal`).
 
 ## Usage
